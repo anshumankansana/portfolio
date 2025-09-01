@@ -1,7 +1,7 @@
 
   # Create Portfolio App
 
-  This is a code bundle for Create Portfolio App. The original project is available at https://www.figma.com/design/GpFYSJX0Go0gfPjYpdxlXZ/Create-Portfolio-App.
+  
 
   ## Running the code
 
